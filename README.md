@@ -5,4 +5,4 @@ Strong understanding of modern web development technologies and best practices.
 Proven ability to collaborate with cross-functional teams to deliver high-quality, user-friendly applications.
 Committed to staying up-to-date with the latest trends and continuously improving skills.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react )](https://skillicons.dev)
